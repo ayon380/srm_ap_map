@@ -44,7 +44,7 @@ const MapPage = () => {
         className="map-image-container"
       >
         <div className="aspect-ratio-container">
-          <Image src="/main.png" width={3000} height={1000} alt="College Map" className="map-image" />
+          <Image src="/main.png" width={2000} height={1000} alt="College Map" className="map-image" />
         </div>
       </div>
       {buildings.map((building) => (
@@ -64,7 +64,7 @@ const MapPage = () => {
                       <Image
                         src={'/' + image}
                         width={500}
-                        height={1000}
+                        height={250}
                         alt={`Image ${index}`}
                         className="w-full  md:w-auto" // Adjust image width
                       />
