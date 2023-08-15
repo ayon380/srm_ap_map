@@ -101,7 +101,6 @@ const MapPage = () => {
       </div>
       <footer className='text-center bg-black text-white'>
         <div>For Any Queries, Contact <a href="mailto:sc@srmap.edu.in">sc@srmap.edu.in</a></div><div>For Any Technical Queries, Contact
-          .
           {"  "}<a href='mailto:sarkar_ayon@srmap.edu.in'>sarkar_ayon@srmap.edu.in</a></div>
       </footer>
     </div>
