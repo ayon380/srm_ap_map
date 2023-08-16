@@ -14,7 +14,7 @@ const buildings: Building[] = [
   { id: '1', name: 'Gate-3', images: ['images/1/1.JPG', 'images/1/2.JPG'] },
   { id: '2', name: 'Mess Lawn Area', images: ['images/2/1.jpg', 'images/2/2.jpg'] },
   { id: '3', name: 'Faculty Tower', images: ['images/3/1.jpg', 'images/3/2.jpg'] },
-  { id: '4', name: 'Girls Hostel: Salon, Med Centre, Post Office', images: ['images/4/med1.jpg', 'images/4/med2.jpg', 'images/4/med3.jpg', 'images/4/med4.jpg', 'images/4/post1.jpg', 'images/4/post2.jpg', 'images/4/salon1.jpg', 'images/4/t1.jpg', 'images/4/t1t2.jpg', 'images/4/t4.jpg'] },
+  { id: '4', name: 'Girls Hostel: Salon, Med Centre, Post Office', images: ['images/4/med1.jpg', 'images/4/med2.jpg', 'images/4/med3.jpg', 'images/4/med4.jpg', 'images/4/post1.jpg', 'images/4/post2.jpg', 'images/4/t1.jpg', 'images/4/t1t2.jpg', 'images/4/t4.jpg'] },
   { id: '5', name: 'Meteorolgy Centre', images: [ 'images/5/2.jpg', 'images/5/3.JPG'] },
   { id: '6', name: 'Girls Mess', images: ['images/6/1.jpg', 'images/6/2.jpg', 'images/6/3.jpg'] },
   { id: '7', name: 'Tree-court Area/Basketball Court', images: ['images/7/1.jpg', 'images/7/2.jpg'] },
