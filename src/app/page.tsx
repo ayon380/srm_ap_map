@@ -23,7 +23,7 @@ const buildings: Building[] = [
   { id: '10', name: 'JC Bose Research Block', images: ['images/10/1.JPG'] },
   { id: '11', name: 'XLab', images: ['images/11/1.JPG', 'images/11/2.JPG'] },
   { id: '12', name: 'Boys Hostels - Vedavathi and Ganga', images: ['images/12/1.JPG', 'images/12/2.JPG', 'images/12/3.JPG'] },
-  { id: '13', name: 'Mess Lawn Area', images: ['images/13/1.JPG', 'images/13/2.JPG', 'images/13/3.JPG', 'images/13/4.JPG', 'images/13/5.JPG', 'images/13/6.JPG'] },
+  { id: '13', name: 'New Academic Block', images: ['images/13/1.JPG', 'images/13/2.JPG', 'images/13/3.JPG', 'images/13/4.JPG', 'images/13/5.JPG', 'images/13/6.JPG'] },
   { id: '14', name: 'Departmental Store', images: ['images/14/1.png', 'images/14/2.png', 'images/14/3.png', 'images/14/4.png'] },
 
   // Add more buildings as needed
