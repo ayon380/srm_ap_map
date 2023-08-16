@@ -18,7 +18,7 @@ const buildings: Building[] = [
   { id: '5', name: 'Meteorolgy Centre', images: [ 'images/5/2.jpg', 'images/5/3.JPG'] },
   { id: '6', name: 'Girls Mess', images: ['images/6/1.jpg', 'images/6/2.jpg', 'images/6/3.jpg'] },
   { id: '7', name: 'Tree-court Area/Basketball Court', images: ['images/7/1.jpg', 'images/7/2.jpg'] },
-  { id: '8', name: 'Admin Block', images: ['images/8/1.jpg'] },
+  { id: '8', name: 'Admin Block', images: ['images/8/1.png'] },
   { id: '9', name: 'Old Academic Block', images: ['images/9/1.JPG', 'images/9/2.JPG'] },
   { id: '10', name: 'JC Bose Research Block', images: ['images/10/1.JPG'] },
   { id: '11', name: 'XLab', images: ['images/11/1.JPG', 'images/11/2.JPG'] },
